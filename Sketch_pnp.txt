@@ -1,0 +1,49 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Sketch
+*Date=20:26:58
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;TO92 [THT];37.8536;-16.983;90;Bottom;Q2
+2;;THT;2.89052;-38.0295;0;Bottom;J4
+3;4.7nF;100 mil [THT, multilayer];45.5625;-43.4625;-90;Bottom;C1
+4;220;THT;37.9425;-34.5725;0;Bottom;R5
+5;;THT;63.8505;-38.0295;0;Bottom;+
+6;;;60.196;-38.2519;-90;Bottom;TXT4
+7;;;37.9425;-40.9225;0;Bottom;Buzzer Piezo
+8;;THT;37.9425;-44.7325;0;Bottom;J3
+9;;;65.8744;-35.5556;0;Bottom;TXT3
+10;;;45.5625;-24.4125;0;Bottom;Jumper1
+11;;;4.92251;-44.7325;0;Bottom;Hole3
+12;220;THT;37.9425;-26.9525;0;Bottom;R1
+13;;;20.1625;-26.9609;180;Bottom;Arduino NANO
+14;;;19.3972;-43.9234;90;Bottom;TXT5
+15;;;0.956171;-32.2113;0;Bottom;TXT3
+16;;;45.5625;-4.0925;0;Bottom;Jumper5
+17;;;0.5874;-42.9374;90;Bottom;TXT3
+18;;5 mm [THT];50.6426;-31.6486;90;Bottom;LED1
+19;;;65.8826;-4.09242;0;Bottom;Hole2
+20;10k;THT;55.7225;-24.4125;180;Bottom;R4
+21;;;60.8025;-10.4425;0;Bottom;Jumper4
+22;220;THT;37.9425;-29.4925;0;Bottom;R7
+23;4.7M;THT;50.6425;-47.2725;0;Bottom;R2
+24;;400 mil [THT];50.6425;-9.1725;0;Bottom;L1
+25;;TO92 [THT];55.6336;-16.983;90;Bottom;Q1
+26;;;4.92251;-4.09242;0;Bottom;Hole4
+27;100k;THT;65.8825;-16.7925;-90;Bottom;R3
+28;;THT;7.46252;-28.2225;0;Bottom;J2
+29;;;65.8826;-44.7325;0;Bottom;Hole1
+30;;;63.3425;-14.2525;0;Bottom;Jumper3
+31;220;THT;37.9425;-32.0325;0;Bottom;R6
+32;;300 mil [THT];36.6471;-9.1725;0;Bottom;D1
+33;;;48.1025;-16.7925;0;Bottom;Jumper2
+34;;;20.0012;-21.676;90;Bottom;TXT2
